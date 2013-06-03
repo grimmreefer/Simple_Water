@@ -13,6 +13,7 @@ WATER::WATER()
     spread = .25f;
     scale = 800/200;///800 IS WINDOW WIDTH
 
+
     font.loadFromFile("font.ttf");
 
     tension_Text.setCharacterSize(20);
